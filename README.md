@@ -1,2 +1,2 @@
 # RProgramming
-This repository is for practice code for 
+This repository is for practice code for R Programming 
